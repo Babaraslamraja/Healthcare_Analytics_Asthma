@@ -35,5 +35,6 @@ Currently pursuing a transition from **Community Pharmacist** to **Health Inform
 ---
 
 ## 📧 Contact & Professional Links
+PhD Virology & Immunology (NUST) | Pharmacist & Academic | Health Informatics Specialist | Medical Coding, HL7 & FHIR | Google Data Analytics & Cybersecurity | Sustainability & Health Equity
 * **Education:** PhD in Virology & Immunology | B.Pharmacy
-* **Certifications:** Google Data Analytics (In Progress) | AI in Health | HL7 Basics
+* **Certifications:** Google Professional Data Analytics | Google Cybersecurity Professional Certificate || AI in Health | HL7 Basics
